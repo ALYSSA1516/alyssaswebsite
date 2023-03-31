@@ -1,0 +1,45 @@
+
+h1 {
+	color:forestgreen;
+	font-family:sans-serif;
+	border:5px skyblue;
+}
+
+p {
+	color:forestgreen;
+	font-family:helvetica;
+}
+
+img {
+	border: 5px solid lightskyblue;
+	marging-left:100px;
+}
+
+body {
+	background-color:whitesmoke;
+}
+
+div {
+	color:forestgreen;
+	font-family:helvetica;
+}
+
+button {
+	background-color:forestgreen;
+	border:none;
+	color:white;
+	padding:10px 15px;
+	font-size:15px;
+	margin-right:4px 2px;
+	cursor:pointer;
+}
+
+button {
+	background-color:forestgreen;
+	border:none;
+	color:white;
+	padding:10px 15px;
+	font-size:12px;
+	margin-left:4px 2px;
+	cursor:pointer;
+}
